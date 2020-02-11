@@ -1,0 +1,9 @@
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\bin\Debug\TestForPractice.exe.config
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\bin\Debug\TestForPractice.exe
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\bin\Debug\TestForPractice.pdb
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\obj\Debug\TestForPractice.csprojResolveAssemblyReference.cache
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\obj\Debug\TestForPractice.Form1.resources
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\obj\Debug\TestForPractice.Properties.Resources.resources
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\obj\Debug\TestForPractice.csproj.GenerateResource.Cache
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\obj\Debug\TestForPractice.exe
+E:\C#学习资料\C#实践项目\HeadFirstC#\TestForPractice\TestForPractice\obj\Debug\TestForPractice.pdb
